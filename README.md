@@ -57,7 +57,7 @@ streamlit run app.py
 - Trains three models:
   - **Support Vector Machine (SVM)** -It gives testing accuracy of 86%. 
   - **Logistic Regression** -It gives testing accuracy of 81%.
-  - **CatBoost Classifier** (final model) -It gives the best accuracy of 97%.
+  - **CatBoost Classifier** (final model) -It gives the best testing accuracy of 97%.
 - Evaluates performance using:
   - **Classification Report**
   - **Confusion Matrix**
