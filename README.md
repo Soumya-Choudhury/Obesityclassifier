@@ -33,7 +33,7 @@ streamlit run app.py
 
 ### **1️⃣ Data Preprocessing**
 - Reads `ObesityDataSet_raw_and_data_sinthetic.csv` into a dataframe.
-- Removes duplicates and unnecessary columns (`NCP`, `TUE`).
+- Removes duplicates and unnecessary columns (`CAEC`. `NCP`, `TUE`, `MTRANS`).
 - Converts categorical values like **"Yes"/"No"** into **1/0**.
 - Maps obesity categories to numerical values:
   ```python
