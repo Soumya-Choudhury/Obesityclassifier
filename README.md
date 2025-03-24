@@ -68,7 +68,8 @@ streamlit run app.py
 
 ### **5️⃣ Deployment**
 - The app is **deployed on Streamlit Cloud** for online access.
-
+- **Link**- https://obesityclassifierbysoumyachoudhury.streamlit.app/
+- **Dataset Link**- https://www.kaggle.com/datasets/ruchikakumbhar/obesity-prediction
 ---
 
 ## 📂 File Structure
